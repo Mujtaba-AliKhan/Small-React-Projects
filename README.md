@@ -1,0 +1,1 @@
+This project consists of various different react components with thier own CSS. I would advice you to uncomment the import and the usage of the component in the app.jsx file and further comment the components which are not in use and then run the project. 
