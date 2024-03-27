@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.bgcontainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1.5em;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+}
+button {
+  border: none;
+  padding: 10px 25px;
+  color: #4b4949;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 10px;
+}
+h2 {
+  color: #4b4949;
+  font-weight: 600;
+}
+p {
+  color: #6f6f6f;
+  font-size: 15px;
+}

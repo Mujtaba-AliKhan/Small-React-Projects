@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.bgcontainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1.5em;
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+}
+
+button {
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 10px 20px;
+  border: none;
+  color: #dd1264;
+}
+
+.nameContainer {
+  display: flex;
+}
+
+.fname,
+.lname {
+  margin: 0 4rem;
+  text-align: center;
+}
+
+.nameCard {
+  height: 100px;
+  display: flex;
+  border-radius: 20px;
+  color: black;
+  margin-top: 1rem;
+  font-weight: 700;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  background-color: #fddddb;
+}
